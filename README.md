@@ -27,3 +27,11 @@
 ---
 
 ## 📌 커밋 컨벤션
+> TIL 커밋 메시지는 아래 형식을 따릅니다.
+
+### ✅ 예시
+
+```bash
+[TIL] 20xx.xx.xx - 알고리즘, SQL, SpringJPA, 인적성, 블로그 작성
+[TIL] 20xx.xx.xx - BOJ7576, 인적성 학습
+[TIL] 20xx.xx.xx - CS(Context Switching), Git 정리
